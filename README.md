@@ -4,6 +4,6 @@
 
 Figures Depicts all the Visual Feature and Image Analysis
 <img width="1919" height="1027" alt="Screenshot 2025-09-18 191119" src="https://github.com/user-attachments/assets/ef728015-868a-45ce-bc63-98741336e98c" />
-<b>_______________________________________________________________________________________________</b>
+<b>________________________________________________________________________________________________________________________________________________________________________</b>
 Calculated Statistics of input image
 <img width="747" height="160" alt="Screenshot 2025-09-18 191148" src="https://github.com/user-attachments/assets/f950dade-452a-4288-99b6-6cc860ac31bc" />
