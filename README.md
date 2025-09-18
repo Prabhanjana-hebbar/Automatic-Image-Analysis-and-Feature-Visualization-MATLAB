@@ -5,28 +5,22 @@
 
 This MATLAB project performs comprehensive image analysis and visualization on grayscale or color images. It provides detailed visual and statistical insights into pixel intensity distributions.
 
-🔧 Features
+<ol>Features
+<li>Converts color images to grayscale</li>
+<li>Displays the original and grayscale images</li>
+</ol>
 
-Converts color images to grayscale
+<ol>Generates:
+<li>Pixel intensity histogram</li>
+<li>Edge map (using standard edge detection techniques)</li>
+<li>Pie chart of intensity categories (Low, Medium, High)</li>
+<li>Boxplot showing intensity spread</li>
+</ol>
 
-Displays the original and grayscale images
-
-Generates:
-
-Pixel intensity histogram
-
-Edge map (using standard edge detection techniques)
-
-Pie chart of intensity categories (Low, Medium, High)
-
-Boxplot showing intensity spread
-
-Calculates and displays:
-
+<ol>Calculates and displays:
 Mean, variance, and count of intensity values in each category
 
 📷 Sample Outputs
-
 Included in the repository are example input images and their respective outputs for easy reference.
 
 
