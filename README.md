@@ -1,2 +1,3 @@
 # Automatic-Image-Analysis-and-Feature-Visualization-MATLAB
-This project provides ready-to-use analysis and visual outputs for any image.
+
+<i>Automatic Image Analysis and Feature Visualization is a MATLAB-based tool designed to process grayscale or color images and extract key visual features. It converts input images to grayscale (if needed), generates pixel intensity histograms, edge maps, and visualizations like pie charts and boxplots to represent intensity distributions. Intensity values are categorized into low, medium, and high ranges, and corresponding statistical metrics (mean, variance, count) are calculated and displayed. This project is ideal for image preprocessing, educational demonstrations, and statistical analysis of visual data. Input and output image examples are included for quick reference and understanding.</i>
